@@ -3,6 +3,8 @@
  <div>
    <a href="https://github.com/jvictor-js">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvictor-js&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img heright="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictor-js&layout=compact&theme=dark"/>
+
 </div>
     
 <div style="display: inline_block"><br>
