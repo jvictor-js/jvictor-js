@@ -1,7 +1,7 @@
 ## João Victor
 
-##🎓 Estudante de Ciência da Computação
-##💻 Desenvolvedor em formação
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor em formação
 
  <div>
    <a href="https://github.com/jvictor-js">
