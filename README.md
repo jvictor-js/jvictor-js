@@ -1,4 +1,7 @@
-## Bem-vindo(a) ao meu perfil! :D
+## João Victor
+
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor em formação
 
  <div>
    <a href="https://github.com/jvictor-js">
@@ -6,7 +9,9 @@
     <img heright="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictor-js&layout=compact&theme=dark"/>
 
 </div>
-    
+
+## Tecnologias:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="HTML" height="40" width="40" src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png">
