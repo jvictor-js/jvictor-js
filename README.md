@@ -8,7 +8,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="60" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="Js" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="HTML" height="40" width="30" src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png">
   <img align="center" alt="CSS" height="40" width="30" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png">
 </div>
