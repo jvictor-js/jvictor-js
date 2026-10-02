@@ -13,9 +13,9 @@
 ## Tecnologias:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="HTML" height="40" width="40" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/C1stEdition.svg/1280px-C1stEdition.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail">
-  <img align="center" alt="CSS" height="40" width="40" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png">
+  <img align="center" alt="Js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="HTML" height="30" width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/C1stEdition.svg/1280px-C1stEdition.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail">
+  <img align="center" alt="CSS" height="30" width="30" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png">
 </div>
  
 <br>
